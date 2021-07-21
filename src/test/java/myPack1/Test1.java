@@ -7,6 +7,7 @@ public class Test1 {
 		System.out.println("Hi,did change6 after integrating with Jenkins....");
 		System.out.println("New changes in eclipse");
 		System.out.println("New changes in eclipse1");
+		System.out.println("New changes in eclipse2");
 	}
 
 }
